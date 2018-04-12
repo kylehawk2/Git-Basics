@@ -1,0 +1,111 @@
+*{
+    font-family: sans-serif;
+}
+div{
+    display: inline-block;
+}
+.wrapper{
+    width: 1000px;
+    background-color: beige;
+}
+.header{
+    display: inline-block;
+    width: 980px;
+    margin: 10px;
+    background-color: rgb(33, 142, 185);
+}
+.header img{
+    width: 50px;
+    background-color: beige;
+    position: relative;
+    top: 15px;
+    left: 10px;
+}
+.header h1{
+    display: inline-block;
+    margin-right: 125px;
+    margin-left: 10px;
+}
+.header p{
+    display: inline-block;
+}
+.header .link{
+    margin-left: 15px;
+    color: white;
+}
+.main{
+    display: inline-block;
+    width: 980px;
+    margin: 10px;
+    background-color: rgb(209, 209, 110);
+    color: white;
+}
+.side_nav{
+    width: 235px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(33, 142, 185);
+}
+.side_nav h2{
+    margin: 5px;
+    padding: 5px;
+}
+.side_nav p{
+    margin: 10px;
+    padding: 10px;
+}
+.main_content{
+   display: inline-block;
+   width: 700px;
+   vertical-align: top;
+}
+.main span{
+    color: rgb(18, 63, 100);
+}
+.init{
+    width: 135px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(33, 142, 185);
+    vertical-align: top;
+}
+.add{
+    width: 215px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(33, 142, 185);
+    vertical-align: top;
+}
+.status{
+    width: 215px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(33, 142, 185);
+    vertical-align: top;
+}
+.commit{
+    width: 235px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(33, 142, 185);
+}
+.remote_add{
+    width: 235px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(33, 142, 185);
+}
+.push{
+    width: 655px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(33, 142, 185);
+}
+.footer{
+    width: 980px;
+    margin: 10px;
+    background-color: rgb(33, 142, 185);
+}
+.footer p{
+    margin-left: 240px;
+}
